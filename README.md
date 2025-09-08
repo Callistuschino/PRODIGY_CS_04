@@ -1,8 +1,7 @@
-#  KEYLOGGER — Educational Key Capture Demo  
-This is a **consent-driven, educational keylogger demo** created using python program as part of my internship at **Prodigy Infotech**.  
-It is designed **ONLY for learning purposes** — demonstrating how keystroke logging works in a **controlled and ethical environment**. 
+# KEYLOGGER - Simple Key Capture Demo  
+This is a **consent-driven, educational keylogger demo** created using python program as part of my internship at **Prodigy Infotech**. It is designed **ONLY for learning purposes** — demonstrating how keystroke logging works in a **controlled and ethical environment**. 
 
-⚠️ **Important:** 
+ **Important:** 
 - Do **NOT** run this on someone else’s computer without **explicit written consent**.  
 - This project is **for educational/testing only** and not intended for malicious use.  
 
