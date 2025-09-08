@@ -1,5 +1,5 @@
 # KEYLOGGER - Simple Key Capture Demo  
-This is a **consent-driven, educational keylogger demo** created using python program as part of my internship at **Prodigy Infotech**. It is designed **ONLY for learning purposes** — demonstrating how keystroke logging works in a **controlled and ethical environment**. 
+This is a **consent-driven, educational keylogger demo** created using python program as part of my internship at **Prodigy Infotech**. It is designed **ONLY for learning purposes** - demonstrating how keystroke logging works in a **controlled and ethical environment**. 
 
  **Important:** 
 - Do **NOT** run this on someone else’s computer without **explicit written consent**.  
@@ -7,14 +7,14 @@ This is a **consent-driven, educational keylogger demo** created using python pr
 
 
 ## Features
-- ASCII banner and terminal-based introduction  
-- **Consent checkbox** before any logging begins  
-- GUI built with `tkinter`  
-- Records keystrokes **only while the GUI window is focused**  
-- Demo login input fields (Username & Secret) for demonstration  
-- Demo Secret is masked (`****`) in terminal but recorded in log file  
-- Log file includes timestamps for every keystroke  
-- Options to **start/stop recording**, **clear logs**, and **open log file**
+- ASCII banner and terminal-based introduction.  
+- **Consent checkbox** before any logging begins.  
+- GUI built with `tkinter`.  
+- Records keystrokes **only while the GUI window is focused**.  
+- Demo login input fields (Username & Secret) for demonstration.  
+- Demo Secret is masked (`****`) in terminal but recorded in log file.  
+- Log file includes timestamps for every keystroke.  
+- Options to **start/stop recording**, **clear logs**, and **open log file**.
 
 
 ## Project Structure
