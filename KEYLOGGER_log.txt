@@ -1,0 +1,57 @@
+
+============================================================
+KEYLOGGER session created: 2025-09-08T13:35:50.819167
+============================================================
+==== DEMO INPUT START ====
+Username: callistus@prodigy.com
+Password: intern@task04
+==== DEMO INPUT END ====
+--- Recording started: 2025-09-08T13:36:18.723907 ---
+2025-09-08T13:36:20.173310	keysym:Shift_L	char:
+2025-09-08T13:36:20.531542	keysym:T	char:T
+2025-09-08T13:36:20.866488	keysym:h	char:h
+2025-09-08T13:36:21.131033	keysym:i	char:i
+2025-09-08T13:36:21.435649	keysym:s	char:s
+2025-09-08T13:36:21.800951	keysym:space	char: 
+2025-09-08T13:36:22.196199	keysym:i	char:i
+2025-09-08T13:36:22.499811	keysym:s	char:s
+2025-09-08T13:36:22.689575	keysym:space	char: 
+2025-09-08T13:36:23.425228	keysym:a	char:a
+2025-09-08T13:36:23.644868	keysym:space	char: 
+2025-09-08T13:36:23.852412	keysym:s	char:s
+2025-09-08T13:36:24.307753	keysym:i	char:i
+2025-09-08T13:36:24.532168	keysym:m	char:m
+2025-09-08T13:36:24.945227	keysym:p	char:p
+2025-09-08T13:36:25.145986	keysym:l	char:l
+2025-09-08T13:36:25.564997	keysym:e	char:e
+2025-09-08T13:36:25.941443	keysym:space	char: 
+2025-09-08T13:36:26.336150	keysym:Shift_L	char:
+2025-09-08T13:36:26.604245	keysym:D	char:D
+2025-09-08T13:36:27.028582	keysym:e	char:e
+2025-09-08T13:36:27.566243	keysym:m	char:m
+2025-09-08T13:36:27.788607	keysym:o	char:o
+2025-09-08T13:36:28.029508	keysym:n	char:n
+2025-09-08T13:36:28.300221	keysym:s	char:s
+2025-09-08T13:36:28.586475	keysym:t	char:t
+2025-09-08T13:36:28.743419	keysym:r	char:r
+2025-09-08T13:36:28.886567	keysym:a	char:a
+2025-09-08T13:36:29.051244	keysym:t	char:t
+2025-09-08T13:36:29.564332	keysym:i	char:i
+2025-09-08T13:36:29.726761	keysym:o	char:o
+2025-09-08T13:36:29.956096	keysym:n	char:n
+2025-09-08T13:36:30.172425	keysym:space	char: 
+2025-09-08T13:36:30.663418	keysym:o	char:o
+2025-09-08T13:36:30.925280	keysym:f	char:f
+2025-09-08T13:36:31.159102	keysym:space	char: 
+2025-09-08T13:36:31.638594	keysym:Shift_L	char:
+2025-09-08T13:36:31.938733	keysym:K	char:K
+2025-09-08T13:36:32.458294	keysym:E	char:E
+2025-09-08T13:36:33.049768	keysym:Y	char:Y
+2025-09-08T13:36:33.564773	keysym:L	char:L
+2025-09-08T13:36:33.782015	keysym:O	char:O
+2025-09-08T13:36:34.210790	keysym:G	char:G
+2025-09-08T13:36:34.407855	keysym:G	char:G
+2025-09-08T13:36:34.807491	keysym:E	char:E
+2025-09-08T13:36:35.040328	keysym:R	char:R
+2025-09-08T13:36:35.916650	keysym:Return	char:
+--- Recording stopped: 2025-09-08T13:36:38.589229 ---
