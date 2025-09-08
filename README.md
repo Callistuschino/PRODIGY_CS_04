@@ -1,5 +1,5 @@
 #  KEYLOGGER — Educational Key Capture Demo  
-This is a **consent-driven, educational keylogger demo** created using python program as part of my internship at **Prodigy Infotech**.<br> 
+This is a **consent-driven, educational keylogger demo** created using python program as part of my internship at **Prodigy Infotech**.  
 It is designed **ONLY for learning purposes** — demonstrating how keystroke logging works in a **controlled and ethical environment**. 
 
 ⚠️ **Important:** 
@@ -19,8 +19,8 @@ It is designed **ONLY for learning purposes** — demonstrating how keystroke lo
 
 
 ## Project Structure
-PRODIGY_CS_04/
-│── Keylogger.py # Main program file
+PRODIGY_CS_04/<br>
+│── Keylogger.py # Main program file<br>
 │── KEYLOGGER_log.txt # Log file (generated automatically)
 
 
