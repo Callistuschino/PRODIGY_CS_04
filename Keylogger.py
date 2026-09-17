@@ -185,6 +185,7 @@ class KeyLoggerApp:
         finally:
             print("Goodbye")
 
+### The Final Part of the Code
 if __name__ == "__main__":
     print(ASCII_BANNER)
     print(ASCII_SUBTITLE.center(60, " "))
